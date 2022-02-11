@@ -1,0 +1,32 @@
+
+
+.titulo{
+    width: 100%;
+    color: black;
+}
+
+.botao{
+    width: 100%;
+}
+
+.saida-dados{
+    margin-top: 10px;
+}
+
+.tag:not(body){
+    background-color: white;
+}
+
+.title:not(:last-child){
+    margin-bottom: 0;
+}
+
+hr{
+    background-color: #4a4a4a
+}
+
+#resultado{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
